@@ -157,5 +157,16 @@ footer{
     height: 30px;
 }
 footer p{
+    color: white;
     padding-top: 8px;
+}
+
+footer a{
+    text-decoration: none;
+    color: white;
+
+}
+footer a:hover{
+    text-decoration: underline;
+
 }
